@@ -1,0 +1,13 @@
+ai-research-agent/
+│
+├── backend/
+│   ├── main.py
+│   ├── requirements.txt
+│   └── .env
+│
+└── frontend/
+    ├── package.json
+    └── src/
+        ├── App.jsx
+        ├── App.css
+        └── main.jsx
